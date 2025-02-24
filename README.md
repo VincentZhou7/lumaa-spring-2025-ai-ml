@@ -1,3 +1,6 @@
+## Hello, Welcome to my deliverables!
+My name is Vincent Zhou from Carnegie Mellon University and my application email is xuanangzhou72@gmail.com. Please email me if you have any questions!
+
 ## Dataset
 
 - **Source:** [TMBD Movie Dataset](https://www.kaggle.com/datasets/successikuku/tmbd-movie-dataset)
