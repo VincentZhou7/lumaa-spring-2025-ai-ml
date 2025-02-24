@@ -51,3 +51,6 @@ You Only Live Twice (Similarity 0.1027)
 A mysterious space craft kidnaps a Russian and American space capsule and brings the world on the verge of another World War. James Bond investigates the case in Japan and meets with his archenemy Blofeld. The fifth film from the legendary James Bond series starring Sean Connery as the British super agent.
 ---
 ```
+
+## Salery Expectation
+2000/month
